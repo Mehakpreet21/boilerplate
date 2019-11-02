@@ -9,4 +9,6 @@ A series of HTML elements from H1->H6 that create heading tags that are decreasi
 It's the declaration of the type of HTML bein used, eg. HTML5.
 ## HTML Title
 It's the title element which is the text you see at the top of the website, on the title tab in the browser.
+## HTML image tag
+It's the element of html whereing you can insert a link to any img you wish to insert on your webpage. 
 
