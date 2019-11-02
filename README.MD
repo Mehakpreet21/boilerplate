@@ -13,4 +13,6 @@ It's the title element which is the text you see at the top of the website, on t
 It's the element of html whereing you can insert a link to any img you wish to insert on your webpage. 
 ##HTML Buttons
 These ae defined using the <button.> tags. This creates a clickable button on the webpage.
+## HTML Lists
+This element allows the developer to make lists(ordered or unordered) on their web page. 
 
