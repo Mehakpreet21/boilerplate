@@ -7,3 +7,6 @@ An HTML element that creates a paragraph.
 A series of HTML elements from H1->H6 that create heading tags that are decreasing in size as the number increases
 ## HTML Document
 It's the declaration of the type of HTML bein used, eg. HTML5.
+## HTML Title
+It's the title element which is the text you see at the top of the website, on the title tab in the browser.
+
