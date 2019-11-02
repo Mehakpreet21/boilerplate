@@ -15,4 +15,5 @@ It's the element of html whereing you can insert a link to any img you wish to i
 These ae defined using the <button.> tags. This creates a clickable button on the webpage.
 ## HTML Lists
 This element allows the developer to make lists(ordered or unordered) on their web page. 
-
+## HTML Meta
+Written in the head tag of the html code. It's used for search engines. It may be of different types: description, keywords, author etc.
