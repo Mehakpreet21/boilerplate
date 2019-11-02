@@ -2,4 +2,6 @@
 ## HTML Element
 An HTML element goes into a webpage
 ## Paragraph Element
-html element that creates a paragraph
+An HTML element that creates a paragraph.
+## Heading
+A series of HTML elements from H1->H6 that create heading tags that are decreasing in size as the number increases
