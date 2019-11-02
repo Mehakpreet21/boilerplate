@@ -19,3 +19,5 @@ This element allows the developer to make lists(ordered or unordered) on their w
 Written in the head tag of the html code. It's used for search engines. It may be of different types: description, keywords, author etc.
 ## HTML Script
 It's used to define a client-side script.It contains scripting statements or points to an external script file through src attribute.
+## HTML Link
+It defines a link between a document and an external resource.
